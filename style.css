@@ -1,4 +1,11 @@
+
+/*Login button needs to be vertically aligned center, this class is used to fill up the rest of the area with div tag*/
+
+/*assign height equals to 45% of the parent container*/
+.fill-45 {
+    height: 45%;
+}
+
 .jumbotron {
     text-align: center;
 }
-
